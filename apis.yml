@@ -40,7 +40,8 @@ apis:
   - name: Harvard Art Museums
     description: "Art"
     humanURL: https://github.com/harvardartmuseums/api-docs
-    tags:
+    tags: []
+    tags_raw:
       - Art And Design
     properties:
       - type: Documentation
